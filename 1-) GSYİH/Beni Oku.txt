@@ -1,0 +1,4 @@
+### Burada ne Yaptık?
+Öncelikle Panel veriye sütun isimleri ekledim.
+Sonra düzenleyerek bize uygun hale getirdim. 
+En sonunda Sonuç verisini ("GDP_final.xlsx") çıkarttım.

@@ -1,0 +1,10 @@
+### Şimdi Burada Ne Yaptık
+1: "0-) İl-İlçe İsimleri Key Draft.ipynb" ile tüm dosyalardaki il ilçe isimlerini aldık.
+	Sonrasında bu isimleri "İl_ilçe_adı_dict.xlsx" dosyasında birleştirip el ile düzelterek 
+	"İl_ilçe_adı_dict_2.xlsx" dosyasını oluşturduk.
+
+2: "1-) Düzenleyici.ipynb" dosyası ile keyleri birleştirdik. Ayrıca Sege'deki okuma hatalarını düzelttik ve 
+	"Eşleştirilmiş.xlsx" dosyasını oluşturduk. Buradaki il ilçe hatalarını el ile düzelterek
+	"Eşleştirilmiş_2.xlsx" dosyasını oluşturduk.
+3: "2-) Sonuç.ipynb" dosyası ile il düzeyinde ağırlıklı ortalama skorları oluşturduk. Çıktımız
+	"Sonuç.xlsx"
